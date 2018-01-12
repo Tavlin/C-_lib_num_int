@@ -4,6 +4,9 @@
 #include <string.h>
 #include "integrals.h"
 
+
+
+
 //definition of size_of_list
 template <class T, const unsigned int size>
 const unsigned int size_of_array(T(&)[size])
@@ -32,15 +35,16 @@ int main (void)
 	trapezodial_integral_sas, midpoint_int, midpoint_int_to_inf};
 	
 	
-	double mus[2] = {0,1};
-	double sigmas[2] = {1,10};
-	double Ns[6] = {10,100,1000,10000,100000,1000000};
-	double lower_bounds[10] = {-100,-10,-5,-2,0,2,5,10,100,1000};
-	double upper_bounds[10] = {0,2,4,5,10,20,25,50,100,1000};
+	double mus[1] = {0};
+	double sigmas[1] = {1};
+	double Ns[2] = {1000,1000000};
+	double lower_bounds[4] = {-100,-10,-2,10};
+	double upper_bounds[4] = {0,2,50,1000};
 	double error = 0.000001;
 	
 	//initialise a list of initial data
-	unsigned int init_data_list_lenght = (size_of_array(Ns) * size_of_array(lower_bounds));
+	unsigned int init_data_list_lenght = (size_of_array(Ns) * 
+	size_of_array(lower_bounds));
 	InitialData init_data_list[init_data_list_lenght];
 	
 	int num_1 = 0;

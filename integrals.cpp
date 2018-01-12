@@ -4,6 +4,17 @@
 #include <string.h>
 #include "integrals.h"
 
+// COLOURS
+#define RED     "\x1b[31m"
+#define GREEN   "\x1b[32m"
+#define YELLOW  "\x1b[33m"
+#define BLUE    "\x1b[34m"
+#define MAGENTA "\x1b[35m"
+#define CYAN    "\x1b[36m"
+#define RESET   "\x1b[0m"
+
+
+
 //planed:
 //changing all given parameters to pointers. Gonna happen... someday... I guess
 // printf function to give it a better look and fix some double posting
@@ -38,16 +49,18 @@ double (*func)(double, FunctionParams), double eps))
 	double integral_val = (*integral)(test_call.init_data, test_call.func_params,
 	test_call.function, test_call.init_data.error);
 	
-	printf("\n*************************************************************\n");
-	printf("Integraltype:\t%s\nFunction:\t%s\nIntegralvalue = %+.10lf\n",
+	printf("\n*******************************************************************\
+***********\n");
+	printf("Integraltype:\t%s\nFunction:\t%s\nIntegralvalue = %+16.10lf\n",
 	integral_name, test_call.function_name, integral_val);
-	printf("lower bound \t= %.10lf\tupper bound = %.10lf or infinite\n\
-#steps \t\t\t\t= %.10lf\t\terror margin = %.10lf\n",
+	printf("lower bound \t= %+16.10lf\tupper bound  = %+16.10lf or infinite\n\
+#steps \t\t\t\t= %+16lf\terror margin = %+16.10lf\n",
 	test_call.init_data.initial, test_call.init_data.final_val,
 	test_call.init_data.stepsize, test_call.init_data.error);
-	printf("mu \t\t\t\t\t\t= %.10lf\t\t\tsigma = %.10lf\n", test_call.func_params.mu, 
-	test_call.func_params.sigma);
-	printf("*************************************************************\n");
+	printf("mu \t\t\t\t\t\t= %+16.10lf\tsigma\t\t\t\t = %+16.10lf\n",
+	test_call.func_params.mu, test_call.func_params.sigma);
+	printf("*********************************************************************\
+*********\n");
 }
 
 
