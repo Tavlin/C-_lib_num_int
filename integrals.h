@@ -4,9 +4,6 @@
 void xorSwap (double x, double y);
 
 // function to print solutions of Integrals
-void printer(const char * func_name, const char * integral_name,
-double integral_val);
-
 void printerplus(TestCall test_call,const char * integral_name,
 double (*integral)(InitialData A, FunctionParams params,
 double (*func)(double, FunctionParams), double eps));

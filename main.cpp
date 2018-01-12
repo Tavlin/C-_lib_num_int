@@ -14,7 +14,7 @@ const unsigned int size_of_array(T(&)[size])
 	return size;
 }
 
-int main (void)
+int main (int argc, char *argv[])
 {
 
 	char* function_name_list[4] = 
@@ -37,10 +37,10 @@ int main (void)
 	
 	double mus[1] = {0};
 	double sigmas[1] = {1};
-	double Ns[2] = {1000,1000000};
+	double Ns[2] = {1000,100000};
 	double lower_bounds[4] = {-100,-10,-2,10};
 	double upper_bounds[4] = {0,2,50,1000};
-	double error = 0.000001;
+	double error = 0.0001;
 	
 	//initialise a list of initial data
 	unsigned int init_data_list_lenght = (size_of_array(Ns) * 
@@ -103,7 +103,7 @@ int main (void)
 	}
 	
 	
-	int check = 1;
+	int check = atoi(argv[1]);
 	//printf("Enter mode (1 for [a,b] or 2 for [a,inf)): ");
 	//scanf("%i", &check);
 		
@@ -111,17 +111,22 @@ int main (void)
 	{
 		for(int o = 0; o < test_call_list_lenght; o++)
 		{
-			printerplus(test_call_list[o], integral_name_list[0], integral_list[0]);
+			for(int p = 0; p < (size_of_array(integral_list) - 1); p++)
+			{
+				printerplus(test_call_list[o], integral_name_list[p], integral_list[p]);
+			}
 		}
 	}
 	
 	else if(check == 2)
 	{		
-		
-		/*
-		printer("exp^(-x²)", "Midpointrule with open boundary to infinite", 
-		midpoint_int_to_inf(*pA, *pnorm, exp_minus_x_sq, 0.00001));
-		*/
+		for(int o = 0; o < test_call_list_lenght; o++)
+		{
+			for(int p = 6; p < (size_of_array(integral_list)); p++)
+			{
+				printerplus(test_call_list[o], integral_name_list[p], integral_list[p]);
+			}
+		}
 	}
 	return 0;
 }

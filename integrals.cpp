@@ -32,22 +32,17 @@ void swap (double x, double y)
 }
 
 // function to print solutions of Integrals
-void printer(const char * func_name, const char * integral_name,
-double integral_val)
-{
-	printf("\n*************************************************************\n");
-	printf("Integraltype:\t%s\nFunction:\t%s\nIntegralvalue = %+.10lf\n",
-	integral_name, func_name, integral_val);
-	printf("*************************************************************\n");
-}
-
-
 void printerplus(TestCall test_call,const char * integral_name,
 double (*integral)(InitialData A, FunctionParams params,
 double (*func)(double, FunctionParams), double eps))
 {
 	double integral_val = (*integral)(test_call.init_data, test_call.func_params,
 	test_call.function, test_call.init_data.error);
+	
+	if(integral_val >= 1000)
+	{
+		integral_val = INFINITY;
+	}
 	
 	printf("\n*******************************************************************\
 ***********\n");
@@ -369,6 +364,16 @@ double(*func)(double, FunctionParams), double eps)
 	
 	while(fabs((*p_previous_int_val)-(*p_integral_val)) > eps)
 	{
+	
+		if(A.stepsize >= 19683)
+		{
+			if(*p_integral_val >= 1000)
+			{
+				return *p_integral_val;
+				break;
+			}
+		}
+		
 		
 		A.stepsize *= 3.0;
 		h /= 3.0;
@@ -393,7 +398,7 @@ double(*func)(double, FunctionParams), double eps)
 
 	}
 	
-	printf("Number of steps used in last calculation = %.0lf\n\n", A.stepsize);
+	//printf("Number of steps used in last calculation = %.0lf\n\n", A.stepsize);
 	
 	if(swaped ==1)
 	{
@@ -421,12 +426,21 @@ double(*func)(double, FunctionParams), double eps)
 	
 	double f_int;
 	
-	if(A.initial <= 0)
+	if(A.initial < 0)
 	{
 		A.final_val = 0.25;
 		f_int = midpoint_int(A, params,(*func), eps);
 		A.initial = 0;
 		A.final_val = 4;
+	}
+	
+	if(A.initial == 0)
+	{
+		A.final_val = 1;
+		f_int = midpoint_int(A, params,(*func), eps);
+		A.initial = 0;
+		A.final_val = 1;
+	
 	}
 	
 	if(A.initial > 0)
@@ -466,6 +480,14 @@ double(*func)(double, FunctionParams), double eps)
 	
 	while(fabs((*p_previous_int_val)-(*p_integral_val)) > eps)
 	{
+		if(A.stepsize >= 19683)
+		{
+			if(*p_integral_val >= 1000)
+			{
+				return *p_integral_val;
+				break;
+			}
+		}
 		
 		A.stepsize *= 3.0;
 		h /= 3.0;
@@ -492,7 +514,7 @@ double(*func)(double, FunctionParams), double eps)
 
 	}
 	integral_val += f_int;
-    printf("Number of steps used in last calculation = %.0lf\n\n", A.stepsize);
+  //printf("Number of steps used in last calculation = %.0lf\n\n", A.stepsize);
 	
 	return integral_val;
 	
