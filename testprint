@@ -1,0 +1,4320 @@
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000000000
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.2651927543
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.9323188154
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.3930803970
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.9998773299
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.3412786944
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.9917763938
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.2736853866
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.6994711429
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.3620783441
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0977093555
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.4610467626
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000029735
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.3712814187
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000000000
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.2404879771
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.3005288625
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.4403576312
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.9738808629
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.4030838221
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.9999617209
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.3434394481
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.9790951211
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.2733780070
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.5199471140
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.3564197220
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0279007116
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.4344353392
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000004597
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.3398425974
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000000000
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.1894132329
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.4800528860
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.4581877308
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.9769246265
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.4040542826
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.9999674429
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.3436366098
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.9774381036
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.2733377443
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.5019947114
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.3558331223
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0232389661
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.4317537830
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000003018
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.3367266293
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000000000
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.1845921311
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.4980052886
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.4599736898
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.9772174605
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.4041510300
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.9999679825
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.3436561369
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.9772684733
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.2733336228
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.5001994711
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.3557742551
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0227987530
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.4314854230
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000002881
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.3364153103
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000000000
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.1841128659
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.4998005289
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.4601523151
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.9772466285
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.4041607017
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.9999680362
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.3436580877
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.9772514710
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.2733332097
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.5000199471
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.3557683663
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0227549914
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.4314585849
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000002868
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.3363841812
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000000000
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.1840649679
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.4999800529
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.4601701780
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.9772495441
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.4041616689
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.9999680415
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.3436582828
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.9772497704
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.2733331684
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.5000019947
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.3557677774
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0227506179
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.4314559011
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000002867
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.3363810683
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000000000
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.1840601783
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	Gaussian
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -5500.0000000000
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -5500.0000000000
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -41.3962624814
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -41.3962624814
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -3.8347149914
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -3.8347149914
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +5.8548830168
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +5.8548830168
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +45.0000000000
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +45.0000000000
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +82.1734001447
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +82.1734001447
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +280.0000000000
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +280.0000000000
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +1120.0000000000
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +1120.0000000000
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -5050.0000000000
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -5050.0000000000
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -25.3957497949
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -25.3957497949
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -2.2320164874
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -2.2320164874
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +5.8637844188
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +5.8637844188
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +24.5000000000
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +24.5000000000
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +89.5458527875
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +89.5458527875
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +178.0000000000
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +178.0000000000
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +711.9999999998
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +711.9999999998
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -2505.0000000001
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -2505.0000000001
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -24.0720101336
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -24.0720101336
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -2.2905001764
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -2.2905001764
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +5.2255001401
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +5.2255001401
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +24.9500040103
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +24.9500040103
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +95.6632254472
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +95.6632254472
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +149.7999839588
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +149.7999839588
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +622.6369847945
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +622.6369847945
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -2535.8553390593
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -2535.8553390593
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -24.0072000005
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -24.0072000005
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -2.2540500000
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -2.2540500000
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +5.2475500000
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +5.2475500000
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +24.9950000003
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +24.9950000003
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +98.9838000115
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +98.9838000115
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +149.9800000279
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +149.9800000279
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +599.9200250755
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +599.9200250755
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -2500.0500000400
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -2500.0500000400
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -24.0007200000
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -24.0007200000
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -2.2504050000
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -2.2504050000
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +5.2497550000
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +5.2497550000
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +24.9995000000
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +24.9995000000
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +98.9983800000
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +98.9983800000
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +149.9980000000
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +149.9980000000
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +599.9920000002
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +599.9920000002
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -2500.0050000000
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -2500.0050000000
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -24.0000720000
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -24.0000720000
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -2.2500405000
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = -2.2500405000
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +5.2499755000
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +5.2499755000
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +24.9999500000
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +24.9999500000
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +98.9998380000
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +98.9998380000
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +149.9998000000
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +149.9998000000
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +599.9992000000
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +599.9992000000
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	x*cos²(2*pi*x²)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7485616820
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7485616820
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7724367341
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7724367341
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7719695120
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7719695120
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.3863186024
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.3863186024
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0329691140
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0329691140
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.3863186024
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.3863186024
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7671216738
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7671216738
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7724538316
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7724538316
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7689194725
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7689194725
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.9362269255
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.9362269255
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0059906826
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0059906826
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.8362269255
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.8362269255
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7681975433
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7681975433
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7724538367
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7724538367
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7683721218
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7683721218
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.8912269255
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.8912269255
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0043123534
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0043123534
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.8812269255
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.8812269255
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7682973180
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7682973180
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7724538372
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7724538372
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7683147237
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7683147237
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.8867269255
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.8867269255
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0041620385
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0041620385
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.8857269255
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.8857269255
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7683072172
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7683072172
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7724538372
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7724538372
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7683089572
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7683089572
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.8862769255
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.8862769255
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0041471833
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0041471833
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.8861769255
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.8861769255
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7683082063
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7683082063
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7724538372
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7724538372
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7683083803
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +1.7683083803
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.8862319255
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.8862319255
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0041456995
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0041456995
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	exp^(-x²)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +inf
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +inf
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +6.5952692101
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +6.5952692101
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +5.7885107950
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +5.7885107950
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +8.1861904722
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +8.1861904722
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 10.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +inf
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +inf
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +6.1598217466
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +6.1598217466
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +5.5527211276
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +5.5527211276
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +7.8527335267
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +7.8527335267
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 100.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +inf
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +inf
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +6.1202009071
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +6.1202009071
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +5.5303375383
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +5.5303375383
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +7.8210783512
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +7.8210783512
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 1000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +inf
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +inf
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +6.1162799815
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +6.1162799815
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +5.5281112722
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +5.5281112722
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +7.8179299354
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +7.8179299354
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 10000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +inf
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +inf
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +6.1158883007
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +6.1158883007
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +5.5278887665
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +5.5278887665
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +7.8176152649
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +7.8176152649
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 100000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -100.0000000000	upper bound = 0.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -10.0000000000	upper bound = 2.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -5.0000000000	upper bound = 4.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = -nan
+lower bound = -2.0000000000	upper bound = 5.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +inf
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +inf
+lower bound = 0.0000000000	upper bound = 10.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +6.1158491368
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +6.1158491368
+lower bound = 2.0000000000	upper bound = 20.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +5.5278665171
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +5.5278665171
+lower bound = 5.0000000000	upper bound = 25.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +7.8175837995
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +7.8175837995
+lower bound = 10.0000000000	upper bound = 50.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +0.0000000000
+lower bound = 100.0000000000	upper bound = 100.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 0.0000000000	sigma = 1.0000000000
+*************************************************************
+
+*************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue = +0.0000000000
+lower bound = 1000.0000000000	upper bound = 1000.0000000000 or infinite
+#steps = 1000000.0000000000	error margin = 0.0000010000
+mu = 1.0000000000	sigma = 10.0000000000
+*************************************************************
