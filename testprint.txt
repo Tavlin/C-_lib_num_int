@@ -1,72 +1,72 @@
 a = -100.000000
 b = 0.000000
 N = 100.000000
-Monte Carlo Integral = 0.305366
+Monte Carlo Integral for Gaussian = 0.301904
 
-Monte Carlo Integral = 0.393222
+Monte Carlo Integral for exp^(-x²) = 0.387473
 
-Monte Carlo Integral = -nan
+Monte Carlo Integral for 1/sqrt(x) = -nan
 
 a = -10.000000
 b = 2.000000
 N = 100.000000
-Monte Carlo Integral = 0.944062
+Monte Carlo Integral for Gaussian = 0.937158
 
-Monte Carlo Integral = 1.748807
+Monte Carlo Integral for exp^(-x²) = 1.757666
 
-Monte Carlo Integral = -nan
+Monte Carlo Integral for 1/sqrt(x) = -nan
 
 a = -2.000000
 b = 50.000000
 N = 100.000000
-Monte Carlo Integral = 0.996512
+Monte Carlo Integral for Gaussian = 0.998860
 
-Monte Carlo Integral = 1.775070
+Monte Carlo Integral for exp^(-x²) = 1.778163
 
-Monte Carlo Integral = -nan
+Monte Carlo Integral for 1/sqrt(x) = -nan
 
 a = 10.000000
 b = 1000.000000
 N = 100.000000
-Monte Carlo Integral = 0.000000
+Monte Carlo Integral for Gaussian = 0.000000
 
-Monte Carlo Integral = 0.000000
+Monte Carlo Integral for exp^(-x²) = 0.000000
 
-Monte Carlo Integral = 57.066271
+Monte Carlo Integral for 1/sqrt(x) = 57.066930
 
 a = -100.000000
 b = 0.000000
 N = 10000.000000
-Monte Carlo Integral = 0.298856
+Monte Carlo Integral for Gaussian = 0.292612
 
-Monte Carlo Integral = 0.385986
+Monte Carlo Integral for exp^(-x²) = 0.393442
 
-Monte Carlo Integral = -nan
+Monte Carlo Integral for 1/sqrt(x) = -nan
 
 a = -10.000000
 b = 2.000000
 N = 10000.000000
-Monte Carlo Integral = 0.943876
+Monte Carlo Integral for Gaussian = 0.940648
 
-Monte Carlo Integral = 1.759580
+Monte Carlo Integral for exp^(-x²) = 1.750409
 
-Monte Carlo Integral = -nan
+Monte Carlo Integral for 1/sqrt(x) = -nan
 
 a = -2.000000
 b = 50.000000
 N = 10000.000000
-Monte Carlo Integral = 0.998414
+Monte Carlo Integral for Gaussian = 0.999368
 
-Monte Carlo Integral = 1.789148
+Monte Carlo Integral for exp^(-x²) = 1.771129
 
-Monte Carlo Integral = -nan
+Monte Carlo Integral for 1/sqrt(x) = -nan
 
 a = 10.000000
 b = 1000.000000
 N = 10000.000000
-Monte Carlo Integral = 0.000000
+Monte Carlo Integral for Gaussian = 0.000000
 
-Monte Carlo Integral = 0.000000
+Monte Carlo Integral for exp^(-x²) = 0.000000
 
-Monte Carlo Integral = 57.065037
+Monte Carlo Integral for 1/sqrt(x) = 57.060841
 

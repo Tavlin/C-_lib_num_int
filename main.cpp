@@ -144,7 +144,8 @@ int main (int argc, char *argv[])
 				}
 				integral_value = monte_carlo_integral(init_data_list[x], 
 				function_params_list[0],function_list[y], 0.01);
-				printf("Monte Carlo Integral = %lf\n\n", integral_value);
+				printf("Monte Carlo Integral for %s = %lf\n\n", function_name_list[y], 
+				integral_value);
 			}
 		
 			
