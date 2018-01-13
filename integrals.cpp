@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
+#include <time.h>
 #include "integrals.h"
 
 // COLOURS
@@ -277,7 +278,7 @@ double(*func)(double, FunctionParams), double eps)
 	h * ((*func)((A.final_val + A.initial)/2.0, params));
 	
 
-	while(fabs((*p_previous_int_val)-(*p_integral_val)) > eps)
+	while(fabs((*p_previous_int_val)-(*p_integral_val)) > eps || A.stepsize < 4.0)
 	{
 		
 		A.stepsize *= 2.0;
@@ -362,7 +363,7 @@ double(*func)(double, FunctionParams), double eps)
 	(*p_integral_val) = (*p_previous_int_val)/3.0 + h * 
 	(((*func)(midpoint - h, params)) + ((*func)(midpoint + h, params)));
 	
-	while(fabs((*p_previous_int_val)-(*p_integral_val)) > eps)
+	while(fabs((*p_previous_int_val)-(*p_integral_val)) > eps || A.stepsize < 9.0)
 	{
 	
 		if(A.stepsize >= 19683)
@@ -478,7 +479,7 @@ double(*func)(double, FunctionParams), double eps)
 	((*func)(midpoint - h, params)) + h/pow(midpoint+h,2) *
 	((*func)(midpoint + h, params));
 	
-	while(fabs((*p_previous_int_val)-(*p_integral_val)) > eps)
+	while(fabs((*p_previous_int_val)-(*p_integral_val)) > eps || A.stepsize < 9.0)
 	{
 		if(A.stepsize >= 19683)
 		{
@@ -519,5 +520,96 @@ double(*func)(double, FunctionParams), double eps)
 	return integral_val;
 	
 }
+
+double monte_carlo_integral(InitialData A, FunctionParams params,
+double(*func)(double, FunctionParams), double eps)
+{
+	InitialData* pA = &A;
+	int swaped;
+	// checks that initial value is allways smaller then final value 
+	if(A.final_val < A.initial)
+	{		
+	
+		swaped = 1;
+		swap(A.final_val, A.initial);
+	}
+	
+	double integral_value = 0;
+	double h = (A.final_val-A.initial);
+	
+	integral_value = h * (mean_value)((*func), A, params);
+	
+	double error = (statistical_error)((*func), A, params);
+
+	while(error > eps)
+	{
+		(*pA).stepsize *= 10;
+		integral_value = h * (mean_value)((*func), (*pA), params);
+		error = (statistical_error)((*func), (*pA), params);
+	}
+	
+	if(swaped ==1)
+	{
+		return (-integral_value);
+	}
+	
+	else
+	{
+		return integral_value;
+	}
+}
+
+
+// <Y>
+double mean_value(double(*func)(double, FunctionParams), InitialData A,
+FunctionParams params)
+{
+	//seed rand()
+	srand((unsigned)time(NULL)); 
+	
+	double sum = 0;
+	
+	for(int i = 0; i < A.stepsize; i++)
+	{
+		int r = (rand()%((int)A.final_val-(int)A.initial)) + (int)A.initial;
+		sum += (*func)(r, params);
+		
+	}
+	return (sum/A.stepsize);
+}
+
+// <Y²>
+double standard_deviation(double(*func)(double, FunctionParams), InitialData A, 
+FunctionParams params)
+{
+	//seed rand()
+	srand((unsigned)time(NULL)); 
+	
+	double sum = 0;
+	
+	for(int i = 0; i < A.stepsize; i++)
+	{
+		int r = (rand()%((int)A.final_val-(int)A.initial)) + (int)A.initial;
+		sum += pow((*func)(r, params),2);
+		
+	}
+	return (sum/A.stepsize);
+
+}
+
+// statistical error function
+double statistical_error(double(*func)(double, FunctionParams), InitialData A, 
+FunctionParams params)
+{
+	double stat_error = 0;
+	double h = (A.final_val-A.initial);
+	
+	return (h * 
+	sqrt(((standard_deviation)((*func), A, params) - 
+	pow((mean_value)((*func), A, params),2))/A.stepsize));
+	
+}
+
+
 
 

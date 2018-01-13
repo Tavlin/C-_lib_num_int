@@ -39,3 +39,20 @@ double(*func)(double, FunctionParams), double eps);
 // semi adaptive midpoint rule with [a,inf)
 double midpoint_int_to_inf(InitialData A, FunctionParams params,
 double(*func)(double, FunctionParams), double eps);
+
+// Monte Carlo Integral
+double monte_carlo_integral(InitialData A, FunctionParams params,
+double(*func)(double, FunctionParams), double eps);
+
+
+// <Y>
+double mean_value(double(*func)(double, FunctionParams), InitialData A, 
+FunctionParams params);
+
+// <Y²>
+double standard_deviation(double(*func)(double, FunctionParams), InitialData A, 
+FunctionParams params);
+
+// statistical error function
+double statistical_error(double(*func)(double, FunctionParams), InitialData A, 
+FunctionParams params);

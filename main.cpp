@@ -5,8 +5,6 @@
 #include "integrals.h"
 
 
-
-
 //definition of size_of_list
 template <class T, const unsigned int size>
 const unsigned int size_of_array(T(&)[size])
@@ -37,7 +35,7 @@ int main (int argc, char *argv[])
 	
 	double mus[1] = {0};
 	double sigmas[1] = {1};
-	double Ns[2] = {1000,100000};
+	double Ns[2] = {100,10000};
 	double lower_bounds[4] = {-100,-10,-2,10};
 	double upper_bounds[4] = {0,2,50,1000};
 	double error = 0.0001;
@@ -104,8 +102,6 @@ int main (int argc, char *argv[])
 	
 	
 	int check = atoi(argv[1]);
-	//printf("Enter mode (1 for [a,b] or 2 for [a,inf)): ");
-	//scanf("%i", &check);
 		
 	if(check == 1)
 	{
@@ -128,5 +124,43 @@ int main (int argc, char *argv[])
 			}
 		}
 	}
+	
+	else if(check == 3)
+	{
+	
+		// call for the Monte Carlo Integral
+		double integral_value = 0;
+		for(int x = 0; x < init_data_list_lenght; x++)
+		{
+			printf("a = %lf\nb = %lf\nN = %lf\n",
+			init_data_list[x].initial, init_data_list[x].final_val,
+			init_data_list[x].stepsize);
+		
+			for(int y = 0; y < size_of_array(function_name_list);y++ )
+			{
+				if(y == 1)
+				{
+					y++;
+				}
+				integral_value = monte_carlo_integral(init_data_list[x], 
+				function_params_list[0],function_list[y], 0.01);
+				printf("Monte Carlo Integral = %lf\n\n", integral_value);
+			}
+		
+			
+		}
+		
+	}
 	return 0;
+	
 }
+
+
+
+
+
+
+
+
+
+
