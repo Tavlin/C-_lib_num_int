@@ -528,7 +528,9 @@ double(*func)(double, FunctionParams), double eps)
 	
 	InitialData* pA = &A;
 	
-	double r_list[(int)A.stepsize];
+	double* r_list;
+	r_list = (double*)malloc(sizeof(double));
+	r_list = (double*)realloc((void*)r_list, A.stepsize*sizeof(double));
 	for(int i = 0; i < A.stepsize; i++)
 	{
 		r_list[i] = (rand()/(double)RAND_MAX*(A.final_val-A.initial)) + A.initial;
@@ -550,26 +552,21 @@ double(*func)(double, FunctionParams), double eps)
 	
 	double error = (statistical_error)((*func), A, params, r_list);
 	
-	printf("error = %lf\n", error);
 	while(error > eps)
 	{
 
-		(*pA).stepsize *= 2;
-		printf("before loop\n");
-		printf("N = %d\n", (int)A.stepsize);
-		for(int i = 0; i < 200; i++)
+		A.stepsize *= 2;
+		
+		r_list = (double*)realloc((void*)r_list, A.stepsize*sizeof(double));
+		for(int i = 0; i < (int)A.stepsize; i++)
 		{
-			printf("i == %d\n", i);
-			r_list[i] = (rand()/(double)RAND_MAX*(A.final_val-A.initial)) + A.initial;
-
-//			printf("%lf\n",(rand()/(double)RAND_MAX*(A.final_val-A.initial)) + A.initial);
-			
+			r_list[i] = ((double)rand()/(double)RAND_MAX)*(A.final_val-A.initial) + A.initial;
+			//printf("r(%d) = %lf\n", i, r_list[i]);
 		}
-		printf("after loop\n");
-		//printf("%lf\n", error);
 		
 		integral_value = h * (mean_value)((*func), (*pA), params, r_list);
 		error = (statistical_error)((*func), (*pA), params, r_list);
+		//printf("error = %lf\n", error);
 	}
 	
 	if(swaped ==1)
@@ -588,12 +585,10 @@ double(*func)(double, FunctionParams), double eps)
 double mean_value(double(*func)(double, FunctionParams), InitialData A,
 FunctionParams params, double* r_list)
 {
-	//seed rand()
-	//srand((unsigned)time(NULL)); 
-	
+
 	double sum = 0;
 	
-	for(int i = 0; i < A.stepsize; i++)
+	for(int i = 0; i < (int)A.stepsize; i++)
 	{
 		sum += (*func)(r_list[i], params);
 		
@@ -605,12 +600,10 @@ FunctionParams params, double* r_list)
 double standard_deviation(double(*func)(double, FunctionParams), InitialData A, 
 FunctionParams params, double* r_list)
 {
-	//seed rand()
-	//srand((unsigned)time(NULL)); 
-	
+
 	double sum = 0;
 	
-	for(int i = 0; i < A.stepsize; i++)
+	for(int i = 0; i < (int)A.stepsize; i++)
 	{
 		sum += pow((*func)(r_list[i], params),2);
 		

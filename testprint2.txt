@@ -2,72 +2,72 @@
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	Gaussian
-Integralvalue =    +0.5000284261
-lower bound 	=  -100.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+Integralvalue =    +0.5023026057
+lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	Gaussian
-Integralvalue =    +0.5000284261
-lower bound 	=   -10.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+Integralvalue =    +0.5023026057
+lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	Gaussian
-Integralvalue =    +0.5000284261
-lower bound 	=    -2.0000000000	upper bound  =   +50.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+Integralvalue =    +0.5023026057
+lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	Gaussian
-Integralvalue =    +1.0000312200
-lower bound 	=   +10.0000000000	upper bound  = +1000.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+Integralvalue =    +0.5023026057
+lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	Gaussian
-Integralvalue =    +0.5000284261
-lower bound 	=  -100.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =    +0.5023026057
+lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	Gaussian
-Integralvalue =    +0.5000284261
-lower bound 	=   -10.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =    +0.5023026057
+lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	Gaussian
-Integralvalue =    +0.5000284261
-lower bound 	=    -2.0000000000	upper bound  =   +50.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =    +0.5023026057
+lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	Gaussian
-Integralvalue =    +1.0000312200
-lower bound 	=   +10.0000000000	upper bound  = +1000.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =    +0.5023026057
+lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -75,8 +75,8 @@ mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	x*cos²(2*pi*x²)
 Integralvalue =             +inf
-lower bound 	=  -100.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -84,8 +84,8 @@ mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	x*cos²(2*pi*x²)
 Integralvalue =             +inf
-lower bound 	=   -10.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -93,8 +93,8 @@ mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	x*cos²(2*pi*x²)
 Integralvalue =             +inf
-lower bound 	=    -2.0000000000	upper bound  =   +50.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -102,8 +102,8 @@ mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	x*cos²(2*pi*x²)
 Integralvalue =             +inf
-lower bound 	=   +10.0000000000	upper bound  = +1000.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -111,8 +111,8 @@ mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	x*cos²(2*pi*x²)
 Integralvalue =             +inf
-lower bound 	=  -100.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -120,8 +120,8 @@ mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	x*cos²(2*pi*x²)
 Integralvalue =             +inf
-lower bound 	=   -10.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -129,8 +129,8 @@ mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	x*cos²(2*pi*x²)
 Integralvalue =             +inf
-lower bound 	=    -2.0000000000	upper bound  =   +50.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -138,80 +138,80 @@ mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	x*cos²(2*pi*x²)
 Integralvalue =             +inf
-lower bound 	=   +10.0000000000	upper bound  = +1000.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	exp^(-x²)
-Integralvalue =    +0.8862537966
-lower bound 	=  -100.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+Integralvalue =    +0.8884037568
+lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	exp^(-x²)
-Integralvalue =    +0.8862537966
-lower bound 	=   -10.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+Integralvalue =    +0.8884037568
+lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	exp^(-x²)
-Integralvalue =    +0.8862537966
-lower bound 	=    -2.0000000000	upper bound  =   +50.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+Integralvalue =    +0.8884037568
+lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	exp^(-x²)
-Integralvalue =    +1.0000260787
-lower bound 	=   +10.0000000000	upper bound  = +1000.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+Integralvalue =    +0.8884037568
+lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	exp^(-x²)
-Integralvalue =    +0.8862537966
-lower bound 	=  -100.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =    +0.8884037568
+lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	exp^(-x²)
-Integralvalue =    +0.8862537966
-lower bound 	=   -10.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =    +0.8884037568
+lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	exp^(-x²)
-Integralvalue =    +0.8862537966
-lower bound 	=    -2.0000000000	upper bound  =   +50.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =    +0.8884037568
+lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	exp^(-x²)
-Integralvalue =    +1.0000260787
-lower bound 	=   +10.0000000000	upper bound  = +1000.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =    +0.8884037568
+lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -219,8 +219,8 @@ mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	1/sqrt(x)
 Integralvalue =             +inf
-lower bound 	=  -100.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -228,8 +228,8 @@ mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	1/sqrt(x)
 Integralvalue =             +inf
-lower bound 	=   -10.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -237,8 +237,8 @@ mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	1/sqrt(x)
 Integralvalue =             +inf
-lower bound 	=    -2.0000000000	upper bound  =   +50.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -246,8 +246,8 @@ mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	1/sqrt(x)
 Integralvalue =             +inf
-lower bound 	=   +10.0000000000	upper bound  = +1000.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -255,8 +255,8 @@ mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	1/sqrt(x)
 Integralvalue =             +inf
-lower bound 	=  -100.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -264,8 +264,8 @@ mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	1/sqrt(x)
 Integralvalue =             +inf
-lower bound 	=   -10.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -273,8 +273,8 @@ mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	1/sqrt(x)
 Integralvalue =             +inf
-lower bound 	=    -2.0000000000	upper bound  =   +50.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -282,7 +282,7 @@ mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 Integraltype:	Midpoint Rule with semiadatipve stepsize and open bondary
 Function:	1/sqrt(x)
 Integralvalue =             +inf
-lower bound 	=   +10.0000000000	upper bound  = +1000.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0100000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************

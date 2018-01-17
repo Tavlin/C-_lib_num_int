@@ -39,9 +39,9 @@ int main (int argc, char *argv[])
 	double mus[1] = {0};
 	double sigmas[1] = {1};
 	double Ns[2] = {100,10000};
-	double lower_bounds[4] = {-100,-10,-2,10};
-	double upper_bounds[4] = {0,2,50,1000};
-	double error = 0.0001;
+	double lower_bounds[4] = {-10,-5,-2,-1};
+	double upper_bounds[4] = {0,1,2,10};
+	double error = 0.01;
 	
 	//initialise a list of initial data
 	unsigned int init_data_list_lenght = (size_of_array(Ns) * 
@@ -139,12 +139,12 @@ int main (int argc, char *argv[])
 			init_data_list[x].initial, init_data_list[x].final_val,
 			init_data_list[x].stepsize);
 		
-			for(int y = 0; y < size_of_array(function_name_list);y++ )
+			for(int y = 0; y < size_of_array(function_name_list); y++)
 			{
-				if(y == 1)
+				/*if(y == 1)
 				{
 					y++;
-				}
+				}*/
 				integral_value = monte_carlo_integral(init_data_list[x], 
 				function_params_list[0],function_list[y], 0.01);
 				printf("Monte Carlo Integral for %s = %lf\n\n", function_name_list[y], 
