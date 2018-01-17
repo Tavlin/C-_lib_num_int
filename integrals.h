@@ -47,12 +47,12 @@ double(*func)(double, FunctionParams), double eps);
 
 // <Y>
 double mean_value(double(*func)(double, FunctionParams), InitialData A, 
-FunctionParams params);
+FunctionParams params, double* r_list);
 
 // <Y²>
 double standard_deviation(double(*func)(double, FunctionParams), InitialData A, 
-FunctionParams params);
+FunctionParams params, double* r_list);
 
 // statistical error function
 double statistical_error(double(*func)(double, FunctionParams), InitialData A, 
-FunctionParams params);
+FunctionParams params, double* r_list);

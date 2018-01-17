@@ -3,6 +3,7 @@
 #include <stdio.h>
 #include <string.h>
 #include "integrals.h"
+#include <time.h>
 
 
 //definition of size_of_list
@@ -15,6 +16,8 @@ const unsigned int size_of_array(T(&)[size])
 int main (int argc, char *argv[])
 {
 
+
+	
 	char* function_name_list[4] = 
 	{"Gaussian", "x*cos²(2*pi*x²)", "exp^(-x²)", "1/sqrt(x)"};
 		

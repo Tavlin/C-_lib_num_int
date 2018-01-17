@@ -67,7 +67,7 @@ double(*func)(double, FunctionParams), double eps)
 
 {
 	int swaped;
-	// checks that initial value is allways smaller then final value 
+	// checks that initial value is always smaller then final value 
 	if(A.final_val < A.initial)
 	{	
 		swaped = 1;
@@ -103,7 +103,7 @@ double(*func)(double, FunctionParams), double eps)
 {
 
 	int swaped;
-	// checks that initial value is allways smaller then final value 
+	// checks that initial value is always smaller then final value 
 	if(A.final_val < A.initial)
 	{	
 		swaped = 1;
@@ -137,7 +137,7 @@ double(*func)(double, FunctionParams), double eps)
 {
 
 	int swaped;
-	// checks that initial value is allways smaller then final value 
+	// checks that initial value is always smaller then final value 
 	if(A.final_val < A.initial)
 	{
 		swaped = 1;
@@ -188,7 +188,7 @@ double(*func)(double, FunctionParams), double eps)
 {
 
 	int swaped;
-	// checks that initial value is allways smaller then final value 
+	// checks that initial value is always smaller then final value 
 	if(A.final_val < A.initial)
 	{
 		swaped = 1;
@@ -243,7 +243,7 @@ double trapezodial_integral_sas(InitialData A, FunctionParams params,
 double(*func)(double, FunctionParams), double eps)
 {
 	int swaped;
-	// checks that initial value is allways smaller then final value 
+	// checks that initial value is always smaller then final value 
 	if(A.final_val < A.initial)
 	{
 		swaped = 1;
@@ -328,7 +328,7 @@ double midpoint_int(InitialData A, FunctionParams params,
 double(*func)(double, FunctionParams), double eps)
 {
 	int swaped;
-	// checks that initial value is allways smaller then final value 
+	// checks that initial value is always smaller then final value 
 	if(A.final_val < A.initial)
 	{
 		swaped = 1;
@@ -524,12 +524,21 @@ double(*func)(double, FunctionParams), double eps)
 double monte_carlo_integral(InitialData A, FunctionParams params,
 double(*func)(double, FunctionParams), double eps)
 {
+	srand((unsigned)time(NULL));
+	
 	InitialData* pA = &A;
+	
+	double r_list[(int)A.stepsize];
+	for(int i = 0; i < A.stepsize; i++)
+	{
+		r_list[i] = (rand()/(double)RAND_MAX*(A.final_val-A.initial)) + A.initial;
+	}
+	
 	int swaped;
-	// checks that initial value is allways smaller then final value 
+	// checks that initial value is always smaller then final value 
 	if(A.final_val < A.initial)
 	{		
-	
+	 //swapped you moron
 		swaped = 1;
 		swap(A.final_val, A.initial);
 	}
@@ -537,15 +546,30 @@ double(*func)(double, FunctionParams), double eps)
 	double integral_value = 0;
 	double h = (A.final_val-A.initial);
 	
-	integral_value = h * (mean_value)((*func), A, params);
+	integral_value = h * (mean_value)((*func), A, params,r_list);
 	
-	double error = (statistical_error)((*func), A, params);
-
+	double error = (statistical_error)((*func), A, params, r_list);
+	
+	printf("error = %lf\n", error);
 	while(error > eps)
 	{
-		(*pA).stepsize *= 10;
-		integral_value = h * (mean_value)((*func), (*pA), params);
-		error = (statistical_error)((*func), (*pA), params);
+
+		(*pA).stepsize *= 2;
+		printf("before loop\n");
+		printf("N = %d\n", (int)A.stepsize);
+		for(int i = 0; i < 200; i++)
+		{
+			printf("i == %d\n", i);
+			r_list[i] = (rand()/(double)RAND_MAX*(A.final_val-A.initial)) + A.initial;
+
+//			printf("%lf\n",(rand()/(double)RAND_MAX*(A.final_val-A.initial)) + A.initial);
+			
+		}
+		printf("after loop\n");
+		//printf("%lf\n", error);
+		
+		integral_value = h * (mean_value)((*func), (*pA), params, r_list);
+		error = (statistical_error)((*func), (*pA), params, r_list);
 	}
 	
 	if(swaped ==1)
@@ -562,17 +586,16 @@ double(*func)(double, FunctionParams), double eps)
 
 // <Y>
 double mean_value(double(*func)(double, FunctionParams), InitialData A,
-FunctionParams params)
+FunctionParams params, double* r_list)
 {
 	//seed rand()
-	srand((unsigned)time(NULL)); 
+	//srand((unsigned)time(NULL)); 
 	
 	double sum = 0;
 	
 	for(int i = 0; i < A.stepsize; i++)
 	{
-		int r = (rand()%((int)A.final_val-(int)A.initial)) + (int)A.initial;
-		sum += (*func)(r, params);
+		sum += (*func)(r_list[i], params);
 		
 	}
 	return (sum/A.stepsize);
@@ -580,17 +603,16 @@ FunctionParams params)
 
 // <Y²>
 double standard_deviation(double(*func)(double, FunctionParams), InitialData A, 
-FunctionParams params)
+FunctionParams params, double* r_list)
 {
 	//seed rand()
-	srand((unsigned)time(NULL)); 
+	//srand((unsigned)time(NULL)); 
 	
 	double sum = 0;
 	
 	for(int i = 0; i < A.stepsize; i++)
 	{
-		int r = (rand()%((int)A.final_val-(int)A.initial)) + (int)A.initial;
-		sum += pow((*func)(r, params),2);
+		sum += pow((*func)(r_list[i], params),2);
 		
 	}
 	return (sum/A.stepsize);
@@ -599,14 +621,14 @@ FunctionParams params)
 
 // statistical error function
 double statistical_error(double(*func)(double, FunctionParams), InitialData A, 
-FunctionParams params)
+FunctionParams params, double* r_list)
 {
 	double stat_error = 0;
 	double h = (A.final_val-A.initial);
 	
 	return (h * 
-	sqrt(((standard_deviation)((*func), A, params) - 
-	pow((mean_value)((*func), A, params),2))/A.stepsize));
+	sqrt(((standard_deviation)((*func), A, params, r_list) - 
+	pow((mean_value)((*func), A, params, r_list),2))/A.stepsize));
 	
 }
 

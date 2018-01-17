@@ -1,0 +1,72 @@
+a = -100.000000
+b = 0.000000
+N = 100.000000
+Monte Carlo Integral for Gaussian = 0.000000
+
+Monte Carlo Integral for exp^(-x²) = 0.000000
+
+Monte Carlo Integral for 1/sqrt(x) = 0.000000
+
+a = -10.000000
+b = 2.000000
+N = 100.000000
+Monte Carlo Integral for Gaussian = 0.000000
+
+Monte Carlo Integral for exp^(-x²) = 0.000000
+
+Monte Carlo Integral for 1/sqrt(x) = 0.000000
+
+a = -2.000000
+b = 50.000000
+N = 100.000000
+Monte Carlo Integral for Gaussian = 0.000000
+
+Monte Carlo Integral for exp^(-x²) = 0.000000
+
+Monte Carlo Integral for 1/sqrt(x) = 0.000000
+
+a = 10.000000
+b = 1000.000000
+N = 100.000000
+Monte Carlo Integral for Gaussian = 0.000000
+
+Monte Carlo Integral for exp^(-x²) = 0.000000
+
+Monte Carlo Integral for 1/sqrt(x) = 0.000000
+
+a = -100.000000
+b = 0.000000
+N = 10000.000000
+Monte Carlo Integral for Gaussian = 0.000000
+
+Monte Carlo Integral for exp^(-x²) = 0.000000
+
+Monte Carlo Integral for 1/sqrt(x) = 0.000000
+
+a = -10.000000
+b = 2.000000
+N = 10000.000000
+Monte Carlo Integral for Gaussian = 0.000000
+
+Monte Carlo Integral for exp^(-x²) = 0.000000
+
+Monte Carlo Integral for 1/sqrt(x) = 0.000000
+
+a = -2.000000
+b = 50.000000
+N = 10000.000000
+Monte Carlo Integral for Gaussian = 0.000000
+
+Monte Carlo Integral for exp^(-x²) = 0.000000
+
+Monte Carlo Integral for 1/sqrt(x) = 0.000000
+
+a = 10.000000
+b = 1000.000000
+N = 10000.000000
+Monte Carlo Integral for Gaussian = 0.000000
+
+Monte Carlo Integral for exp^(-x²) = 0.000000
+
+Monte Carlo Integral for 1/sqrt(x) = 0.000000
+
