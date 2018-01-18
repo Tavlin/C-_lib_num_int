@@ -16,7 +16,7 @@ const unsigned int size_of_array(T(&)[size])
 int main (int argc, char *argv[])
 {
 
-
+	printf("I am at the start of the main\n");
 	
 	char* function_name_list[4] = 
 	{"Gaussian", "x*cos²(2*pi*x²)", "exp^(-x²)", "1/sqrt(x)"};
@@ -39,9 +39,9 @@ int main (int argc, char *argv[])
 	double mus[1] = {0};
 	double sigmas[1] = {1};
 	double Ns[2] = {100,10000};
-	double lower_bounds[4] = {-10,-5,-2,-1};
+	double lower_bounds[4] = {-10,-5,-2,5};
 	double upper_bounds[4] = {0,1,2,10};
-	double error = 0.01;
+	double error = 0.00000000001;
 	
 	//initialise a list of initial data
 	unsigned int init_data_list_lenght = (size_of_array(Ns) * 
@@ -119,6 +119,7 @@ int main (int argc, char *argv[])
 	
 	else if(check == 2)
 	{		
+		printf("I am right after the check == 2\n");
 		for(int o = 0; o < test_call_list_lenght; o++)
 		{
 			for(int p = 6; p < (size_of_array(integral_list)); p++)

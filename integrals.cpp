@@ -420,6 +420,7 @@ double(*func)(double, FunctionParams), double eps)
 double midpoint_int_to_inf(InitialData  A, FunctionParams params,
 double(*func)(double, FunctionParams), double eps)
 {
+	printf("I am at midpoint_int_to_inf!\n");
 	
 	// check if lower bound is < 0, so split is needed in [a,0.25] nad [0.25,inf)
 	// 0.25 so the calculation for both integrals does not take too long/too many
@@ -431,20 +432,22 @@ double(*func)(double, FunctionParams), double eps)
 	{
 		A.final_val = 0.25;
 		f_int = midpoint_int(A, params,(*func), eps);
+		printf("f_int = %lf\n", f_int);
 		A.initial = 0;
 		A.final_val = 4;
 	}
 	
-	if(A.initial == 0)
+	else if(A.initial == 0)
 	{
 		A.final_val = 1;
 		f_int = midpoint_int(A, params,(*func), eps);
+		printf("f_int = %lf\n", f_int);
 		A.initial = 0;
 		A.final_val = 1;
 	
 	}
 	
-	if(A.initial > 0)
+	else if(A.initial > 0)
 	{
 		A.final_val = 1/A.initial;
 		A.initial = 0;
@@ -500,14 +503,14 @@ double(*func)(double, FunctionParams), double eps)
 		for(double j = -((A.stepsize/2.0) - 0.5); j <= ((A.stepsize/2.0) - 0.5); j += 3)
 		{
 			(*p_new_int_val) += h/pow((midpoint + (j*h)),2) * 
-			(*func)(1/(midpoint + (j*h)), params);
+			(*func)(1.0/(midpoint + (j*h)), params);
 			
 		}
 	
 		for(double i = (-((A.stepsize/2.0) - 0.5)) + 2; i <= ((A.stepsize/2.0) - 0.5); i += 3)
 		{
 			(*p_new_int_val) += h/pow((midpoint + (i*h)),2) * 
-			(*func)(1/(midpoint + (i*h)), params);
+			(*func)(1.0/(midpoint + (i*h)), params);
 			
 		}
 	

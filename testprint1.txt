@@ -4,7 +4,7 @@ Integraltype:	Left Riemann Sum
 Function:	Gaussian
 Integralvalue =    +0.4800528860
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -13,7 +13,7 @@ Integraltype:	Right Riemann Sum
 Function:	Gaussian
 Integralvalue =    +0.5199471140
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -22,7 +22,7 @@ Integraltype:	Trapezodial Rule
 Function:	Gaussian
 Integralvalue =    +0.5000000000
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -31,10 +31,10 @@ Integraltype:	Simpson's Rule
 Function:	Gaussian
 Integralvalue =    +0.5000000000
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
-Number of steps used in last calculation = 16
+Number of steps used in last calculation = 32
 
 
 ******************************************************************************
@@ -42,7 +42,7 @@ Integraltype:	Trapezodial Rule with semi adaptive stepsize
 Function:	Gaussian
 Integralvalue =    +0.5000000000
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -51,7 +51,7 @@ Integraltype:	Midpoint Rule with semiadatipve stepsize
 Function:	Gaussian
 Integralvalue =    +0.5000000000
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -60,7 +60,7 @@ Integraltype:	Left Riemann Sum
 Function:	Gaussian
 Integralvalue =    +0.8340127801
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -69,7 +69,7 @@ Integraltype:	Right Riemann Sum
 Function:	Gaussian
 Integralvalue =    +0.8485309344
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -78,7 +78,7 @@ Integraltype:	Trapezodial Rule
 Function:	Gaussian
 Integralvalue =    +0.8412718573
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -87,27 +87,27 @@ Integraltype:	Simpson's Rule
 Function:	Gaussian
 Integralvalue =    +0.8413444616
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
-Number of steps used in last calculation = 256
+Number of steps used in last calculation = 524288
 
 
 ******************************************************************************
 Integraltype:	Trapezodial Rule with semi adaptive stepsize
 Function:	Gaussian
-Integralvalue =    +0.8413333823
+Integralvalue =    +0.8413444594
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize
 Function:	Gaussian
-Integralvalue =    +0.8413506065
+Integralvalue =    +0.8413444594
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -116,7 +116,7 @@ Integraltype:	Left Riemann Sum
 Function:	Gaussian
 Integralvalue =    +0.9544709417
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -125,7 +125,7 @@ Integraltype:	Right Riemann Sum
 Function:	Gaussian
 Integralvalue =    +0.9544709417
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -134,7 +134,7 @@ Integraltype:	Trapezodial Rule
 Function:	Gaussian
 Integralvalue =    +0.9544709417
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -143,83 +143,83 @@ Integraltype:	Simpson's Rule
 Function:	Gaussian
 Integralvalue =    +0.9544997359
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
-Number of steps used in last calculation = 128
+Number of steps used in last calculation = 524288
 
 
 ******************************************************************************
 Integraltype:	Trapezodial Rule with semi adaptive stepsize
 Function:	Gaussian
-Integralvalue =    +0.9544821612
+Integralvalue =    +0.9544997361
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize
 Function:	Gaussian
-Integralvalue =    +0.9545021743
+Integralvalue =    +0.9544997361
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Left Riemann Sum
 Function:	Gaussian
-Integralvalue =    +0.8544090503
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+Integralvalue =    +0.0000003254
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Right Riemann Sum
 Function:	Gaussian
-Integralvalue =    +0.8277922706
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+Integralvalue =    +0.0000002510
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Trapezodial Rule
 Function:	Gaussian
-Integralvalue =    +0.8411006604
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+Integralvalue =    +0.0000002882
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Simpson's Rule
 Function:	Gaussian
-Integralvalue =    +0.8413447707
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+Integralvalue =    +0.0000002867
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
-Number of steps used in last calculation = 512
+Number of steps used in last calculation = 4096
 
 
 ******************************************************************************
 Integraltype:	Trapezodial Rule with semi adaptive stepsize
 Function:	Gaussian
-Integralvalue =    +0.8413354386
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+Integralvalue =    +0.0000002867
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize
 Function:	Gaussian
-Integralvalue =    +0.8413470416
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+Integralvalue =    +0.0000002867
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -228,7 +228,7 @@ Integraltype:	Left Riemann Sum
 Function:	Gaussian
 Integralvalue =    +0.4998005289
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -237,7 +237,7 @@ Integraltype:	Right Riemann Sum
 Function:	Gaussian
 Integralvalue =    +0.5001994711
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -246,7 +246,7 @@ Integraltype:	Trapezodial Rule
 Function:	Gaussian
 Integralvalue =    +0.5000000000
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -255,10 +255,10 @@ Integraltype:	Simpson's Rule
 Function:	Gaussian
 Integralvalue =    +0.5000000000
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
-Number of steps used in last calculation = 16
+Number of steps used in last calculation = 32
 
 
 ******************************************************************************
@@ -266,7 +266,7 @@ Integraltype:	Trapezodial Rule with semi adaptive stepsize
 Function:	Gaussian
 Integralvalue =    +0.5000000000
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -275,7 +275,7 @@ Integraltype:	Midpoint Rule with semiadatipve stepsize
 Function:	Gaussian
 Integralvalue =    +0.5000000000
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -284,7 +284,7 @@ Integraltype:	Left Riemann Sum
 Function:	Gaussian
 Integralvalue =    +0.8412718614
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -293,7 +293,7 @@ Integraltype:	Right Riemann Sum
 Function:	Gaussian
 Integralvalue =    +0.8414170429
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -302,7 +302,7 @@ Integraltype:	Trapezodial Rule
 Function:	Gaussian
 Integralvalue =    +0.8413444522
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -311,27 +311,27 @@ Integraltype:	Simpson's Rule
 Function:	Gaussian
 Integralvalue =    +0.8413444594
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
-Number of steps used in last calculation = 256
+Number of steps used in last calculation = 524288
 
 
 ******************************************************************************
 Integraltype:	Trapezodial Rule with semi adaptive stepsize
 Function:	Gaussian
-Integralvalue =    +0.8413333823
+Integralvalue =    +0.8413444594
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize
 Function:	Gaussian
-Integralvalue =    +0.8413506065
+Integralvalue =    +0.8413444594
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -340,7 +340,7 @@ Integraltype:	Left Riemann Sum
 Function:	Gaussian
 Integralvalue =    +0.9544997332
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -349,7 +349,7 @@ Integraltype:	Right Riemann Sum
 Function:	Gaussian
 Integralvalue =    +0.9544997332
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -358,7 +358,7 @@ Integraltype:	Trapezodial Rule
 Function:	Gaussian
 Integralvalue =    +0.9544997332
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -367,83 +367,83 @@ Integraltype:	Simpson's Rule
 Function:	Gaussian
 Integralvalue =    +0.9544997361
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
-Number of steps used in last calculation = 128
+Number of steps used in last calculation = 524288
 
 
 ******************************************************************************
 Integraltype:	Trapezodial Rule with semi adaptive stepsize
 Function:	Gaussian
-Integralvalue =    +0.9544821612
+Integralvalue =    +0.9544997361
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize
 Function:	Gaussian
-Integralvalue =    +0.9545021743
+Integralvalue =    +0.9544997361
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Left Riemann Sum
 Function:	Gaussian
-Integralvalue =    +0.8414778056
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =    +0.0000002870
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Right Riemann Sum
 Function:	Gaussian
-Integralvalue =    +0.8412116378
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =    +0.0000002863
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Trapezodial Rule
 Function:	Gaussian
-Integralvalue =    +0.8413447217
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =    +0.0000002867
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Simpson's Rule
 Function:	Gaussian
-Integralvalue =    +0.8413447461
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =    +0.0000002867
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
-Number of steps used in last calculation = 512
+Number of steps used in last calculation = 4096
 
 
 ******************************************************************************
 Integraltype:	Trapezodial Rule with semi adaptive stepsize
 Function:	Gaussian
-Integralvalue =    +0.8413354386
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =    +0.0000002867
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize
 Function:	Gaussian
-Integralvalue =    +0.8413470416
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =    +0.0000002867
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -452,7 +452,7 @@ Integraltype:	Left Riemann Sum
 Function:	x*cos²(2*pi*x²)
 Integralvalue =   -25.5000000000
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -461,7 +461,7 @@ Integraltype:	Right Riemann Sum
 Function:	x*cos²(2*pi*x²)
 Integralvalue =   -24.5000000000
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -470,7 +470,7 @@ Integraltype:	Trapezodial Rule
 Function:	x*cos²(2*pi*x²)
 Integralvalue =   -25.0000000000
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -479,27 +479,27 @@ Integraltype:	Simpson's Rule
 Function:	x*cos²(2*pi*x²)
 Integralvalue =   -27.3570226040
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
-Number of steps used in last calculation = 2048
+Number of steps used in last calculation = 65536
 
 
 ******************************************************************************
 Integraltype:	Trapezodial Rule with semi adaptive stepsize
 Function:	x*cos²(2*pi*x²)
-Integralvalue =   -25.0000001640
+Integralvalue =   -25.0000000000
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize
 Function:	x*cos²(2*pi*x²)
-Integralvalue =   -24.9999998900
+Integralvalue =   -25.0000000000
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -508,7 +508,7 @@ Integraltype:	Left Riemann Sum
 Function:	x*cos²(2*pi*x²)
 Integralvalue =    -6.0838063687
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -517,7 +517,7 @@ Integraltype:	Right Riemann Sum
 Function:	x*cos²(2*pi*x²)
 Integralvalue =    -5.7238063687
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -526,7 +526,7 @@ Integraltype:	Trapezodial Rule
 Function:	x*cos²(2*pi*x²)
 Integralvalue =    -5.9038063687
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -535,27 +535,27 @@ Integraltype:	Simpson's Rule
 Function:	x*cos²(2*pi*x²)
 Integralvalue =    -6.0322789608
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
-Number of steps used in last calculation = 512
+Number of steps used in last calculation = 32768
 
 
 ******************************************************************************
 Integraltype:	Trapezodial Rule with semi adaptive stepsize
 Function:	x*cos²(2*pi*x²)
-Integralvalue =    -6.0000013689
+Integralvalue =    -6.0000000000
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize
 Function:	x*cos²(2*pi*x²)
-Integralvalue =    -5.9999997268
+Integralvalue =    -6.0000000000
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -564,7 +564,7 @@ Integraltype:	Left Riemann Sum
 Function:	x*cos²(2*pi*x²)
 Integralvalue =    -0.0800000000
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -573,7 +573,7 @@ Integraltype:	Right Riemann Sum
 Function:	x*cos²(2*pi*x²)
 Integralvalue =    +0.0800000000
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -582,7 +582,7 @@ Integraltype:	Trapezodial Rule
 Function:	x*cos²(2*pi*x²)
 Integralvalue =    +0.0000000000
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -591,7 +591,7 @@ Integraltype:	Simpson's Rule
 Function:	x*cos²(2*pi*x²)
 Integralvalue =    +0.0000000000
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 Number of steps used in last calculation = 4
@@ -602,7 +602,7 @@ Integraltype:	Trapezodial Rule with semi adaptive stepsize
 Function:	x*cos²(2*pi*x²)
 Integralvalue =    +0.0000000000
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -611,63 +611,63 @@ Integraltype:	Midpoint Rule with semiadatipve stepsize
 Function:	x*cos²(2*pi*x²)
 Integralvalue =    +0.0000000000
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Left Riemann Sum
 Function:	x*cos²(2*pi*x²)
-Integralvalue =   +22.1334826791
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+Integralvalue =   +19.9508252147
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Right Riemann Sum
 Function:	x*cos²(2*pi*x²)
-Integralvalue =   +23.3434826791
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+Integralvalue =   +20.2008252147
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Trapezodial Rule
 Function:	x*cos²(2*pi*x²)
-Integralvalue =   +22.7384826791
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+Integralvalue =   +20.0758252147
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Simpson's Rule
 Function:	x*cos²(2*pi*x²)
-Integralvalue =   +21.3255604570
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+Integralvalue =   +19.4865001225
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
-Number of steps used in last calculation = 2048
+Number of steps used in last calculation = 32768
 
 
 ******************************************************************************
 Integraltype:	Trapezodial Rule with semi adaptive stepsize
 Function:	x*cos²(2*pi*x²)
-Integralvalue =   +24.7500002428
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+Integralvalue =   +18.7500000000
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize
 Function:	x*cos²(2*pi*x²)
-Integralvalue =   +24.7499998373
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+Integralvalue =   +18.7500000000
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -676,7 +676,7 @@ Integraltype:	Left Riemann Sum
 Function:	x*cos²(2*pi*x²)
 Integralvalue =   -25.0050000003
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -685,7 +685,7 @@ Integraltype:	Right Riemann Sum
 Function:	x*cos²(2*pi*x²)
 Integralvalue =   -24.9950000003
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -694,7 +694,7 @@ Integraltype:	Trapezodial Rule
 Function:	x*cos²(2*pi*x²)
 Integralvalue =   -25.0000000003
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -703,27 +703,27 @@ Integraltype:	Simpson's Rule
 Function:	x*cos²(2*pi*x²)
 Integralvalue =   -24.9999999999
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
-Number of steps used in last calculation = 2048
+Number of steps used in last calculation = 65536
 
 
 ******************************************************************************
 Integraltype:	Trapezodial Rule with semi adaptive stepsize
 Function:	x*cos²(2*pi*x²)
-Integralvalue =   -25.0000001640
+Integralvalue =   -25.0000000000
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize
 Function:	x*cos²(2*pi*x²)
-Integralvalue =   -24.9999998900
+Integralvalue =   -25.0000000000
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -732,7 +732,7 @@ Integraltype:	Left Riemann Sum
 Function:	x*cos²(2*pi*x²)
 Integralvalue =    -6.0018000000
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -741,7 +741,7 @@ Integraltype:	Right Riemann Sum
 Function:	x*cos²(2*pi*x²)
 Integralvalue =    -5.9982000000
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -750,7 +750,7 @@ Integraltype:	Trapezodial Rule
 Function:	x*cos²(2*pi*x²)
 Integralvalue =    -6.0000000000
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -759,27 +759,27 @@ Integraltype:	Simpson's Rule
 Function:	x*cos²(2*pi*x²)
 Integralvalue =    -6.0000000000
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
-Number of steps used in last calculation = 512
+Number of steps used in last calculation = 32768
 
 
 ******************************************************************************
 Integraltype:	Trapezodial Rule with semi adaptive stepsize
 Function:	x*cos²(2*pi*x²)
-Integralvalue =    -6.0000013689
+Integralvalue =    -6.0000000000
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize
 Function:	x*cos²(2*pi*x²)
-Integralvalue =    -5.9999997268
+Integralvalue =    -6.0000000000
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -788,7 +788,7 @@ Integraltype:	Left Riemann Sum
 Function:	x*cos²(2*pi*x²)
 Integralvalue =    -0.0008000000
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -797,7 +797,7 @@ Integraltype:	Right Riemann Sum
 Function:	x*cos²(2*pi*x²)
 Integralvalue =    +0.0008000000
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -806,7 +806,7 @@ Integraltype:	Trapezodial Rule
 Function:	x*cos²(2*pi*x²)
 Integralvalue =    +0.0000000000
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -815,7 +815,7 @@ Integraltype:	Simpson's Rule
 Function:	x*cos²(2*pi*x²)
 Integralvalue =    +0.0000000000
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 Number of steps used in last calculation = 4
@@ -826,7 +826,7 @@ Integraltype:	Trapezodial Rule with semi adaptive stepsize
 Function:	x*cos²(2*pi*x²)
 Integralvalue =    +0.0000000000
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -835,63 +835,63 @@ Integraltype:	Midpoint Rule with semiadatipve stepsize
 Function:	x*cos²(2*pi*x²)
 Integralvalue =    +0.0000000000
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Left Riemann Sum
 Function:	x*cos²(2*pi*x²)
-Integralvalue =   +24.7439500004
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =   +18.7487500000
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Right Riemann Sum
 Function:	x*cos²(2*pi*x²)
-Integralvalue =   +24.7560500004
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =   +18.7512500000
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Trapezodial Rule
 Function:	x*cos²(2*pi*x²)
-Integralvalue =   +24.7500000004
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =   +18.7500000000
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Simpson's Rule
 Function:	x*cos²(2*pi*x²)
-Integralvalue =   +24.7499999999
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =   +18.7500000000
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
-Number of steps used in last calculation = 2048
+Number of steps used in last calculation = 32768
 
 
 ******************************************************************************
 Integraltype:	Trapezodial Rule with semi adaptive stepsize
 Function:	x*cos²(2*pi*x²)
-Integralvalue =   +24.7500002428
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =   +18.7500000000
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize
 Function:	x*cos²(2*pi*x²)
-Integralvalue =   +24.7499998373
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =   +18.7500000000
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -900,7 +900,7 @@ Integraltype:	Left Riemann Sum
 Function:	exp^(-x²)
 Integralvalue =    +0.8362269255
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -909,7 +909,7 @@ Integraltype:	Right Riemann Sum
 Function:	exp^(-x²)
 Integralvalue =    +0.9362269255
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -918,7 +918,7 @@ Integraltype:	Trapezodial Rule
 Function:	exp^(-x²)
 Integralvalue =    +0.8862269255
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -927,10 +927,10 @@ Integraltype:	Simpson's Rule
 Function:	exp^(-x²)
 Integralvalue =    +0.8862269255
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
-Number of steps used in last calculation = 32
+Number of steps used in last calculation = 64
 
 
 ******************************************************************************
@@ -938,7 +938,7 @@ Integraltype:	Trapezodial Rule with semi adaptive stepsize
 Function:	exp^(-x²)
 Integralvalue =    +0.8862269255
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -947,7 +947,7 @@ Integraltype:	Midpoint Rule with semiadatipve stepsize
 Function:	exp^(-x²)
 Integralvalue =    +0.8862269255
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -956,7 +956,7 @@ Integraltype:	Left Riemann Sum
 Function:	exp^(-x²)
 Integralvalue =    +1.6217939209
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -965,7 +965,7 @@ Integraltype:	Right Riemann Sum
 Function:	exp^(-x²)
 Integralvalue =    +1.6438666874
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -974,7 +974,7 @@ Integraltype:	Trapezodial Rule
 Function:	exp^(-x²)
 Integralvalue =    +1.6328303041
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -983,27 +983,27 @@ Integraltype:	Simpson's Rule
 Function:	exp^(-x²)
 Integralvalue =    +1.6330510649
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
-Number of steps used in last calculation = 512
+Number of steps used in last calculation = 1048576
 
 
 ******************************************************************************
 Integraltype:	Trapezodial Rule with semi adaptive stepsize
 Function:	exp^(-x²)
-Integralvalue =    +1.6330426381
+Integralvalue =    +1.6330510583
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize
 Function:	exp^(-x²)
-Integralvalue =    +1.6330531350
+Integralvalue =    +1.6330510583
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1012,7 +1012,7 @@ Integraltype:	Left Riemann Sum
 Function:	exp^(-x²)
 Integralvalue =    +1.7641432501
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1021,7 +1021,7 @@ Integraltype:	Right Riemann Sum
 Function:	exp^(-x²)
 Integralvalue =    +1.7641432501
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1030,7 +1030,7 @@ Integraltype:	Trapezodial Rule
 Function:	exp^(-x²)
 Integralvalue =    +1.7641432501
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1039,83 +1039,83 @@ Integraltype:	Simpson's Rule
 Function:	exp^(-x²)
 Integralvalue =    +1.7641627802
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
-Number of steps used in last calculation = 128
+Number of steps used in last calculation = 262144
 
 
 ******************************************************************************
 Integraltype:	Trapezodial Rule with semi adaptive stepsize
 Function:	exp^(-x²)
-Integralvalue =    +1.7641508592
+Integralvalue =    +1.7641627815
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize
 Function:	exp^(-x²)
-Integralvalue =    +1.7641644357
+Integralvalue =    +1.7641627815
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Left Riemann Sum
 Function:	exp^(-x²)
-Integralvalue =    +1.6525422383
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+Integralvalue =    +0.0000000000
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Right Riemann Sum
 Function:	exp^(-x²)
-Integralvalue =    +1.6120754997
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+Integralvalue =    +0.0000000000
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Trapezodial Rule
 Function:	exp^(-x²)
-Integralvalue =    +1.6323088690
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+Integralvalue =    +0.0000000000
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Simpson's Rule
 Function:	exp^(-x²)
-Integralvalue =    +1.6330511330
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+Integralvalue =    +0.0000000000
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
-Number of steps used in last calculation = 512
+Number of steps used in last calculation = 4
 
 
 ******************************************************************************
 Integraltype:	Trapezodial Rule with semi adaptive stepsize
 Function:	exp^(-x²)
-Integralvalue =    +1.6330227570
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+Integralvalue =    +0.0000000000
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize
 Function:	exp^(-x²)
-Integralvalue =    +1.6330580383
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+Integralvalue =    +0.0000000000
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1124,7 +1124,7 @@ Integraltype:	Left Riemann Sum
 Function:	exp^(-x²)
 Integralvalue =    +0.8857269255
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1133,7 +1133,7 @@ Integraltype:	Right Riemann Sum
 Function:	exp^(-x²)
 Integralvalue =    +0.8867269255
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1142,7 +1142,7 @@ Integraltype:	Trapezodial Rule
 Function:	exp^(-x²)
 Integralvalue =    +0.8862269255
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1151,10 +1151,10 @@ Integraltype:	Simpson's Rule
 Function:	exp^(-x²)
 Integralvalue =    +0.8862269255
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
-Number of steps used in last calculation = 32
+Number of steps used in last calculation = 64
 
 
 ******************************************************************************
@@ -1162,7 +1162,7 @@ Integraltype:	Trapezodial Rule with semi adaptive stepsize
 Function:	exp^(-x²)
 Integralvalue =    +0.8862269255
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1171,7 +1171,7 @@ Integraltype:	Midpoint Rule with semiadatipve stepsize
 Function:	exp^(-x²)
 Integralvalue =    +0.8862269255
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1180,7 +1180,7 @@ Integraltype:	Left Riemann Sum
 Function:	exp^(-x²)
 Integralvalue =    +1.6329406724
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1189,7 +1189,7 @@ Integraltype:	Right Riemann Sum
 Function:	exp^(-x²)
 Integralvalue =    +1.6331614000
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1198,7 +1198,7 @@ Integraltype:	Trapezodial Rule
 Function:	exp^(-x²)
 Integralvalue =    +1.6330510362
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1207,27 +1207,27 @@ Integraltype:	Simpson's Rule
 Function:	exp^(-x²)
 Integralvalue =    +1.6330510583
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
-Number of steps used in last calculation = 512
+Number of steps used in last calculation = 1048576
 
 
 ******************************************************************************
 Integraltype:	Trapezodial Rule with semi adaptive stepsize
 Function:	exp^(-x²)
-Integralvalue =    +1.6330426381
+Integralvalue =    +1.6330510583
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize
 Function:	exp^(-x²)
-Integralvalue =    +1.6330531350
+Integralvalue =    +1.6330510583
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1236,7 +1236,7 @@ Integraltype:	Left Riemann Sum
 Function:	exp^(-x²)
 Integralvalue =    +1.7641627796
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1245,7 +1245,7 @@ Integraltype:	Right Riemann Sum
 Function:	exp^(-x²)
 Integralvalue =    +1.7641627796
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1254,7 +1254,7 @@ Integraltype:	Trapezodial Rule
 Function:	exp^(-x²)
 Integralvalue =    +1.7641627796
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1263,83 +1263,83 @@ Integraltype:	Simpson's Rule
 Function:	exp^(-x²)
 Integralvalue =    +1.7641627815
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
-Number of steps used in last calculation = 128
+Number of steps used in last calculation = 262144
 
 
 ******************************************************************************
 Integraltype:	Trapezodial Rule with semi adaptive stepsize
 Function:	exp^(-x²)
-Integralvalue =    +1.7641508592
+Integralvalue =    +1.7641627815
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize
 Function:	exp^(-x²)
-Integralvalue =    +1.7641644357
+Integralvalue =    +1.7641627815
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Left Riemann Sum
 Function:	exp^(-x²)
-Integralvalue =    +1.6332533178
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =    +0.0000000000
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Right Riemann Sum
 Function:	exp^(-x²)
-Integralvalue =    +1.6328486504
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =    +0.0000000000
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Trapezodial Rule
 Function:	exp^(-x²)
-Integralvalue =    +1.6330509841
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =    +0.0000000000
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Simpson's Rule
 Function:	exp^(-x²)
-Integralvalue =    +1.6330510583
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =    +0.0000000000
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
-Number of steps used in last calculation = 512
+Number of steps used in last calculation = 4
 
 
 ******************************************************************************
 Integraltype:	Trapezodial Rule with semi adaptive stepsize
 Function:	exp^(-x²)
-Integralvalue =    +1.6330227570
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =    +0.0000000000
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize
 Function:	exp^(-x²)
-Integralvalue =    +1.6330580383
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =    +0.0000000000
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1348,7 +1348,7 @@ Integraltype:	Left Riemann Sum
 Function:	1/sqrt(x)
 Integralvalue =             -nan
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1357,7 +1357,7 @@ Integraltype:	Right Riemann Sum
 Function:	1/sqrt(x)
 Integralvalue =             -nan
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1366,7 +1366,7 @@ Integraltype:	Trapezodial Rule
 Function:	1/sqrt(x)
 Integralvalue =             -nan
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1375,7 +1375,7 @@ Integraltype:	Simpson's Rule
 Function:	1/sqrt(x)
 Integralvalue =             -nan
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 Number of steps used in last calculation = 4
@@ -1386,7 +1386,7 @@ Integraltype:	Trapezodial Rule with semi adaptive stepsize
 Function:	1/sqrt(x)
 Integralvalue =             -nan
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1395,7 +1395,7 @@ Integraltype:	Midpoint Rule with semiadatipve stepsize
 Function:	1/sqrt(x)
 Integralvalue =             -nan
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1404,7 +1404,7 @@ Integraltype:	Left Riemann Sum
 Function:	1/sqrt(x)
 Integralvalue =             -nan
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1413,7 +1413,7 @@ Integraltype:	Right Riemann Sum
 Function:	1/sqrt(x)
 Integralvalue =             -nan
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1422,7 +1422,7 @@ Integraltype:	Trapezodial Rule
 Function:	1/sqrt(x)
 Integralvalue =             -nan
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1431,7 +1431,7 @@ Integraltype:	Simpson's Rule
 Function:	1/sqrt(x)
 Integralvalue =             -nan
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 Number of steps used in last calculation = 4
@@ -1442,7 +1442,7 @@ Integraltype:	Trapezodial Rule with semi adaptive stepsize
 Function:	1/sqrt(x)
 Integralvalue =             -nan
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1451,7 +1451,7 @@ Integraltype:	Midpoint Rule with semiadatipve stepsize
 Function:	1/sqrt(x)
 Integralvalue =             -nan
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1460,7 +1460,7 @@ Integraltype:	Left Riemann Sum
 Function:	1/sqrt(x)
 Integralvalue =             -nan
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1469,7 +1469,7 @@ Integraltype:	Right Riemann Sum
 Function:	1/sqrt(x)
 Integralvalue =             -nan
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1478,7 +1478,7 @@ Integraltype:	Trapezodial Rule
 Function:	1/sqrt(x)
 Integralvalue =             -nan
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1487,7 +1487,7 @@ Integraltype:	Simpson's Rule
 Function:	1/sqrt(x)
 Integralvalue =             -nan
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 Number of steps used in last calculation = 4
@@ -1498,7 +1498,7 @@ Integraltype:	Trapezodial Rule with semi adaptive stepsize
 Function:	1/sqrt(x)
 Integralvalue =             -nan
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1507,7 +1507,63 @@ Integraltype:	Midpoint Rule with semiadatipve stepsize
 Function:	1/sqrt(x)
 Integralvalue =             -nan
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+#steps 				=      +100.000000	error margin =    +0.0000000000
+mu 						=    +0.0000000000	sigma				 =    +1.0000000000
+******************************************************************************
+
+******************************************************************************
+Integraltype:	Left Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue =    +1.8557000339
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0000000000
+mu 						=    +0.0000000000	sigma				 =    +1.0000000000
+******************************************************************************
+
+******************************************************************************
+Integraltype:	Right Riemann Sum
+Function:	1/sqrt(x)
+Integralvalue =    +1.8491507425
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0000000000
+mu 						=    +0.0000000000	sigma				 =    +1.0000000000
+******************************************************************************
+
+******************************************************************************
+Integraltype:	Trapezodial Rule
+Function:	1/sqrt(x)
+Integralvalue =    +1.8524253882
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0000000000
+mu 						=    +0.0000000000	sigma				 =    +1.0000000000
+******************************************************************************
+
+******************************************************************************
+Integraltype:	Simpson's Rule
+Function:	1/sqrt(x)
+Integralvalue =    +1.8524193654
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0000000000
+mu 						=    +0.0000000000	sigma				 =    +1.0000000000
+******************************************************************************
+Number of steps used in last calculation = 262144
+
+
+******************************************************************************
+Integraltype:	Trapezodial Rule with semi adaptive stepsize
+Function:	1/sqrt(x)
+Integralvalue =    +1.8524193653
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0000000000
+mu 						=    +0.0000000000	sigma				 =    +1.0000000000
+******************************************************************************
+
+******************************************************************************
+Integraltype:	Midpoint Rule with semiadatipve stepsize
+Function:	1/sqrt(x)
+Integralvalue =    +1.8524193653
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=      +100.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1515,8 +1571,8 @@ mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 Integraltype:	Left Riemann Sum
 Function:	1/sqrt(x)
 Integralvalue =             -nan
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1524,8 +1580,8 @@ mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 Integraltype:	Right Riemann Sum
 Function:	1/sqrt(x)
 Integralvalue =             -nan
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1533,8 +1589,8 @@ mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 Integraltype:	Trapezodial Rule
 Function:	1/sqrt(x)
 Integralvalue =             -nan
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1542,8 +1598,8 @@ mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 Integraltype:	Simpson's Rule
 Function:	1/sqrt(x)
 Integralvalue =             -nan
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
+lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 Number of steps used in last calculation = 4
@@ -1553,64 +1609,8 @@ Number of steps used in last calculation = 4
 Integraltype:	Trapezodial Rule with semi adaptive stepsize
 Function:	1/sqrt(x)
 Integralvalue =             -nan
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
-mu 						=    +0.0000000000	sigma				 =    +1.0000000000
-******************************************************************************
-
-******************************************************************************
-Integraltype:	Midpoint Rule with semiadatipve stepsize
-Function:	1/sqrt(x)
-Integralvalue =             -nan
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=      +100.000000	error margin =    +0.0001000000
-mu 						=    +0.0000000000	sigma				 =    +1.0000000000
-******************************************************************************
-
-******************************************************************************
-Integraltype:	Left Riemann Sum
-Function:	1/sqrt(x)
-Integralvalue =             -nan
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
-mu 						=    +0.0000000000	sigma				 =    +1.0000000000
-******************************************************************************
-
-******************************************************************************
-Integraltype:	Right Riemann Sum
-Function:	1/sqrt(x)
-Integralvalue =             -nan
-lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
-mu 						=    +0.0000000000	sigma				 =    +1.0000000000
-******************************************************************************
-
-******************************************************************************
-Integraltype:	Trapezodial Rule
-Function:	1/sqrt(x)
-Integralvalue =             -nan
-lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
-mu 						=    +0.0000000000	sigma				 =    +1.0000000000
-******************************************************************************
-
-******************************************************************************
-Integraltype:	Simpson's Rule
-Function:	1/sqrt(x)
-Integralvalue =             -nan
-lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
-mu 						=    +0.0000000000	sigma				 =    +1.0000000000
-******************************************************************************
-Number of steps used in last calculation = 4
-
-
-******************************************************************************
-Integraltype:	Trapezodial Rule with semi adaptive stepsize
-Function:	1/sqrt(x)
-Integralvalue =             -nan
-lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1619,7 +1619,7 @@ Integraltype:	Midpoint Rule with semiadatipve stepsize
 Function:	1/sqrt(x)
 Integralvalue =             -nan
 lower bound 	=   -10.0000000000	upper bound  =    +0.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1628,7 +1628,7 @@ Integraltype:	Left Riemann Sum
 Function:	1/sqrt(x)
 Integralvalue =             -nan
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1637,7 +1637,7 @@ Integraltype:	Right Riemann Sum
 Function:	1/sqrt(x)
 Integralvalue =             -nan
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1646,7 +1646,7 @@ Integraltype:	Trapezodial Rule
 Function:	1/sqrt(x)
 Integralvalue =             -nan
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1655,7 +1655,7 @@ Integraltype:	Simpson's Rule
 Function:	1/sqrt(x)
 Integralvalue =             -nan
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 Number of steps used in last calculation = 4
@@ -1666,7 +1666,7 @@ Integraltype:	Trapezodial Rule with semi adaptive stepsize
 Function:	1/sqrt(x)
 Integralvalue =             -nan
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1675,7 +1675,7 @@ Integraltype:	Midpoint Rule with semiadatipve stepsize
 Function:	1/sqrt(x)
 Integralvalue =             -nan
 lower bound 	=    -5.0000000000	upper bound  =    +1.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1684,7 +1684,7 @@ Integraltype:	Left Riemann Sum
 Function:	1/sqrt(x)
 Integralvalue =             -nan
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1693,7 +1693,7 @@ Integraltype:	Right Riemann Sum
 Function:	1/sqrt(x)
 Integralvalue =             -nan
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1702,7 +1702,7 @@ Integraltype:	Trapezodial Rule
 Function:	1/sqrt(x)
 Integralvalue =             -nan
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1711,7 +1711,7 @@ Integraltype:	Simpson's Rule
 Function:	1/sqrt(x)
 Integralvalue =             -nan
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 Number of steps used in last calculation = 4
@@ -1722,7 +1722,7 @@ Integraltype:	Trapezodial Rule with semi adaptive stepsize
 Function:	1/sqrt(x)
 Integralvalue =             -nan
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
@@ -1731,62 +1731,62 @@ Integraltype:	Midpoint Rule with semiadatipve stepsize
 Function:	1/sqrt(x)
 Integralvalue =             -nan
 lower bound 	=    -2.0000000000	upper bound  =    +2.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Left Riemann Sum
 Function:	1/sqrt(x)
-Integralvalue =             -nan
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =    +1.8524521124
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Right Riemann Sum
 Function:	1/sqrt(x)
-Integralvalue =             -nan
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =    +1.8523866195
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Trapezodial Rule
 Function:	1/sqrt(x)
-Integralvalue =             -nan
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =    +1.8524193659
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Simpson's Rule
 Function:	1/sqrt(x)
-Integralvalue =             -nan
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =    +1.8524193653
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
-Number of steps used in last calculation = 4
+Number of steps used in last calculation = 262144
 
 
 ******************************************************************************
 Integraltype:	Trapezodial Rule with semi adaptive stepsize
 Function:	1/sqrt(x)
-Integralvalue =             -nan
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =    +1.8524193653
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
 
 ******************************************************************************
 Integraltype:	Midpoint Rule with semiadatipve stepsize
 Function:	1/sqrt(x)
-Integralvalue =             -nan
-lower bound 	=    -1.0000000000	upper bound  =   +10.0000000000 or infinite
-#steps 				=    +10000.000000	error margin =    +0.0001000000
+Integralvalue =    +1.8524193653
+lower bound 	=    +5.0000000000	upper bound  =   +10.0000000000 or infinite
+#steps 				=    +10000.000000	error margin =    +0.0000000000
 mu 						=    +0.0000000000	sigma				 =    +1.0000000000
 ******************************************************************************
