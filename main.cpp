@@ -39,9 +39,9 @@ int main (int argc, char *argv[])
 	double mus[1] = {0};
 	double sigmas[1] = {1};
 	double Ns[2] = {100,10000};
-	double lower_bounds[4] = {-10,-5,-2,5};
-	double upper_bounds[4] = {0,1,2,10};
-	double error = 0.00000000001;
+	double lower_bounds[4] = {-10,-5,-2,-1}; //allways paired with upper bound
+	double upper_bounds[4] = {0,5,2,9};
+	double error = 0.0000001;
 	
 	//initialise a list of initial data
 	unsigned int init_data_list_lenght = (size_of_array(Ns) * 

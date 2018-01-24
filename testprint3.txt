@@ -1,88 +1,89 @@
+I am at the start of the main
 a = -10.000000
 b = 0.000000
 N = 100.000000
-Monte Carlo Integral for Gaussian = 0.483471
+Monte Carlo Integral for Gaussian = 0.506717
 
-Monte Carlo Integral for x*cos²(2*pi*x²) = -25.001891
+Monte Carlo Integral for x*cos²(2*pi*x²) = -25.010135
 
-Monte Carlo Integral for exp^(-x²) = 0.890133
+Monte Carlo Integral for exp^(-x²) = 0.886715
 
 Monte Carlo Integral for 1/sqrt(x) = -nan
 
 a = -5.000000
-b = 1.000000
+b = 5.000000
 N = 100.000000
-Monte Carlo Integral for Gaussian = 0.837793
+Monte Carlo Integral for Gaussian = 1.008315
 
-Monte Carlo Integral for x*cos²(2*pi*x²) = -5.985132
+Monte Carlo Integral for x*cos²(2*pi*x²) = 0.009743
 
-Monte Carlo Integral for exp^(-x²) = 1.647343
+Monte Carlo Integral for exp^(-x²) = 1.763728
 
 Monte Carlo Integral for 1/sqrt(x) = -nan
 
 a = -2.000000
 b = 2.000000
 N = 100.000000
-Monte Carlo Integral for Gaussian = 0.964569
+Monte Carlo Integral for Gaussian = 0.962377
 
-Monte Carlo Integral for x*cos²(2*pi*x²) = -0.013454
+Monte Carlo Integral for x*cos²(2*pi*x²) = -0.018127
 
-Monte Carlo Integral for exp^(-x²) = 1.769709
+Monte Carlo Integral for exp^(-x²) = 1.759952
 
 Monte Carlo Integral for 1/sqrt(x) = -nan
 
 a = -1.000000
-b = 10.000000
+b = 9.000000
 N = 100.000000
-Monte Carlo Integral for Gaussian = 0.840008
+Monte Carlo Integral for Gaussian = 0.847719
 
-Monte Carlo Integral for x*cos²(2*pi*x²) = 24.750978
+Monte Carlo Integral for x*cos²(2*pi*x²) = 19.992137
 
-Monte Carlo Integral for exp^(-x²) = 1.633977
+Monte Carlo Integral for exp^(-x²) = 1.647896
 
 Monte Carlo Integral for 1/sqrt(x) = -nan
 
 a = -10.000000
 b = 0.000000
 N = 10000.000000
-Monte Carlo Integral for Gaussian = 0.499499
+Monte Carlo Integral for Gaussian = 0.495503
 
-Monte Carlo Integral for x*cos²(2*pi*x²) = -24.983189
+Monte Carlo Integral for x*cos²(2*pi*x²) = -25.000233
 
-Monte Carlo Integral for exp^(-x²) = 0.874914
+Monte Carlo Integral for exp^(-x²) = 0.892513
 
 Monte Carlo Integral for 1/sqrt(x) = -nan
 
 a = -5.000000
-b = 1.000000
+b = 5.000000
 N = 10000.000000
-Monte Carlo Integral for Gaussian = 0.837117
+Monte Carlo Integral for Gaussian = 1.003611
 
-Monte Carlo Integral for x*cos²(2*pi*x²) = -6.005202
+Monte Carlo Integral for x*cos²(2*pi*x²) = -0.004268
 
-Monte Carlo Integral for exp^(-x²) = 1.624205
+Monte Carlo Integral for exp^(-x²) = 1.761582
 
 Monte Carlo Integral for 1/sqrt(x) = -nan
 
 a = -2.000000
 b = 2.000000
 N = 10000.000000
-Monte Carlo Integral for Gaussian = 0.956561
+Monte Carlo Integral for Gaussian = 0.943372
 
-Monte Carlo Integral for x*cos²(2*pi*x²) = -0.015272
+Monte Carlo Integral for x*cos²(2*pi*x²) = -0.003975
 
-Monte Carlo Integral for exp^(-x²) = 1.759835
+Monte Carlo Integral for exp^(-x²) = 1.768646
 
 Monte Carlo Integral for 1/sqrt(x) = -nan
 
 a = -1.000000
-b = 10.000000
+b = 9.000000
 N = 10000.000000
-Monte Carlo Integral for Gaussian = 0.840702
+Monte Carlo Integral for Gaussian = 0.841731
 
-Monte Carlo Integral for x*cos²(2*pi*x²) = 24.750450
+Monte Carlo Integral for x*cos²(2*pi*x²) = 19.989937
 
-Monte Carlo Integral for exp^(-x²) = 1.623400
+Monte Carlo Integral for exp^(-x²) = 1.640086
 
 Monte Carlo Integral for 1/sqrt(x) = -nan
 
