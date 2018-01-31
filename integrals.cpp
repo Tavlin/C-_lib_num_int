@@ -420,7 +420,7 @@ double(*func)(double, FunctionParams), double eps)
 double midpoint_int_to_inf(InitialData  A, FunctionParams params,
 double(*func)(double, FunctionParams), double eps)
 {
-	printf("I am at midpoint_int_to_inf!\n");
+	//printf("I am at midpoint_int_to_inf!\n");
 	
 	// check if lower bound is < 0, so split is needed in [a,0.25] nad [0.25,inf)
 	// 0.25 so the calculation for both integrals does not take too long/too many
