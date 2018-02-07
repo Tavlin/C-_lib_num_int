@@ -160,7 +160,7 @@ double(*func)(double, FunctionParams), double eps)
 	
 	*pleft_step = (*func)((A.initial), params);
 	
-	for(double i = 1; i <= A.stepsize; i++)
+	for(int i = 1; i <= A.stepsize; i++)
 	{
 		*pright_step = (*func)((A.initial+(i*(A.final_val-A.initial))/A.stepsize), params);
 		
